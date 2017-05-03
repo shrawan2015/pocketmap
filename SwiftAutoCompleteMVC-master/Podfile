@@ -1,5 +1,0 @@
-target 'DemoMVC' do
-pod 'GoogleMaps'
-pod 'GooglePlaces'
-end
-
